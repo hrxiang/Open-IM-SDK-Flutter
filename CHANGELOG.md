@@ -11,3 +11,6 @@
 ### 0.0.3
     upgrade sdk </br>
     fix bug </br>
+
+### 0.0.4
+   将createCustomMessage方法入参从Uint8List替换为Map
